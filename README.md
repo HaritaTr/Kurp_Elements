@@ -9,7 +9,6 @@ Karayolu, demiryolu ve benzer güzergahları, mücbir (zorlayıcı) noktalar ara
 =====================
 
 **Çalıştırıldığında;**
-======================
 
 + Δ; Some noktası açı değeri (projeden hesaplanır)
 + R; Kurbun yarıçapı (proje mühendisi olan harita mühendisi veya inşaat mühendisi tarafınca belirlenir.)
